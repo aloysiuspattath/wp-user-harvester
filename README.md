@@ -71,12 +71,17 @@ python wp_user_harvester.py
     python wp_user_harvester.py
     ```
 
-2. Input the WordPress site URL (without a trailing slash). Example:
+    or simply
+    ```bash
+    wp_user_harvester
+    ```
+
+3. Input the WordPress site URL (without a trailing slash). Example:
     ```
     Enter the WordPress site URL (without trailing slash, e.g., https://example.com): https://example.com
     ```
 
-3. Input the range of numbers to iterate over user IDs:
+4. Input the range of numbers to iterate over user IDs:
     ```
     Enter the range of numbers to check for iterable endpoints (e.g., 5 for checking up to 5): 5
     ```
@@ -105,3 +110,5 @@ If you'd like to contribute, please fork the repository and use a feature branch
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
 ---
+![image](https://github.com/user-attachments/assets/247faa80-6861-42c2-bd3a-cb50d6e54e99)
+
