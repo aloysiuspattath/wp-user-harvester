@@ -40,7 +40,7 @@ __      ___ __    _   _ ___  ___ _ __  | |__   __ _ _ ____   _____ ___| |_ ___ _
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/aloysiuspattath/wp-user-harvestor.git
+git clone https://github.com/aloysiuspattath/wp-user-harvester.git
 
 cd wp-user-harvester
 ```
